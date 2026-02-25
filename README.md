@@ -1,1 +1,2 @@
 # Data_Survey
+A survey dataset of data professionals was cleaned and transformed in Power BI to explore salary trends, programming preferences, and career insights. An interactive dashboard was developed featuring KPIs, treemaps, bar charts, and gauge visuals to highlight average salaries by job role and gender, country distribution, favorite programming languages, and work-life satisfaction metrics. The dashboard enabled quick comparison across roles and provided clear insights into industry trends and professional sentiment.
