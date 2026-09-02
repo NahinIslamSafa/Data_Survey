@@ -65,7 +65,7 @@ These filters allow users to explore the survey results across different groups 
 
 ## Project Workflow
 
-**Raw Data → Data Cleaning & Transformation → Data Modeling → Analysis → Visualization → Interactive Dashboard**
+**Raw Data → Data Cleaning & Transformation → Analysis → Visualization → Interactive Dashboard**
 
 ## Project Files
 
